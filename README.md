@@ -13,7 +13,7 @@ Cette application fonctionne sur deux serveurs :
 - le premier est un serveur backend déployé sur la plateforme Heroku et développé à partir du framework Django-Rest-Framework (python). Il stocke les données spatiales relevées sur le terrain avant de les redistribuer automatiquement à l'interface client;
 - le second est un serveur frontend, déployé sur Firebase, qui accueille l'interface graphique développé en VueJS (javascript). Une carte interactive créée à partir de la librairie LeafletJS affiche chaque arrêt de bus évalué ainsi que les données attributaires relevées par les métiers de l'agglomération.
 
-<img src="public/schema.PNG" width="500" height="400">
+<img src="public/schema.png" width="500" height="400">
 
 Le framework DjangoRestFramework et son module SIG DRF-gis facilitent la création de modèles de données spatiales et leur transfert vers une base de données PostGIS. Il offre également une interface administrateur simple à naviguer avec l'appui d'un canevas géographique qui accélère la création des données spatiales sur le terrain.
 
