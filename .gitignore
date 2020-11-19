@@ -1,0 +1,20 @@
+GDAL-3.1.4-cp37-cp37m-win_amd64.whl
+Pipfile
+Pipfile.lock
+
+client/.DS_Store
+client/node_modules/
+client/dist/
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+api/media/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
