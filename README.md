@@ -3,6 +3,10 @@
 
 > Le projet consiste en l'évaluation de l'accessibilité des arrêts de bus par les usagers quotidiens, mais aussi la qualité du service mis à leur disposition qu'il soit destiné à les guider dans leurs itinéraires ou à l'attente du véhicule de transports en commun. L'exercice consiste à produire une application SIG-web au service des métiers du service Mobilités&Transports de l'agglomération à partir d'outils Open Source uniquement.
 
+> Lien de l'application : [https://apps-ddc47.web.app/#/](https://apps-ddc47.web.app/#/)
+
+> Lien de l'API : [https://busgisapi.herokuapp.com/api/arrets/?format=json](https://busgisapi.herokuapp.com/api/arrets/?format=json)
+
 ## Fonctionnement
 
 Cette application fonctionne sur deux serveurs :
