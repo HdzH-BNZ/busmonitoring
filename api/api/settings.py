@@ -14,7 +14,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = ''#entrer la clé du projet générée par Django
+SECRET_KEY = 'yq@c-wose+uis!hpdg^&v-4x4+dq1$m6!g8-(jz2!quv+wl17i'#entrer la clé du projet générée par Django
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': '',#entrer le nom de la base de données postgis
-        'USER': '',#entrer le nom d'utilisateur
-        'PASSWORD': '',#entrer le mot de passe
+        'NAME': 'bus',#entrer le nom de la base de données postgis
+        'USER': 'postgres',#entrer le nom d'utilisateur
+        'PASSWORD': 'chichi94',#entrer le mot de passe
         'HOST': 'localhost',
         'PORT': '5432',
     }

@@ -32,3 +32,5 @@ Le framework DjangoRestFramework et son module SIG DRF-gis facilitent la créati
 <img src="public/back1.png" width="600" height="300">
 <img src="public/back2.png" width="600" height="300">
 <img src="public/front2.png" width="600" height="300">
+
+Je remercie [Abdillahi Mohammad](https://www.linkedin.com/in/abdillahi-abdi-899b8bbb/), [Clément Philippo](https://www.linkedin.com/in/cl%C3%A9ment-philippo-30959a16b/), [Valentin Maigret](https://www.linkedin.com/in/valentin-maigret-452a67165/) et [Rémy Point](https://www.linkedin.com/in/r%C3%A9my-point-08a7591a3/) sans qui ce projet n'aurait pu aboutir.
